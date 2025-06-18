@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/roopet/static/css/main.7fc68bcb.css",
+    "main.js": "/roopet/static/js/main.de24b405.js",
+    "static/media/cat.png": "/roopet/static/media/cat.b4204a8d716f77d8d67c.png",
+    "static/media/dog.png": "/roopet/static/media/dog.3bc30ace0281cfda715a.png",
+    "static/media/rabbit.png": "/roopet/static/media/rabbit.ec5c90d8f863f0dcb048.png",
+    "static/media/bird.png": "/roopet/static/media/bird.ba2f039d6e00b1408499.png",
+    "index.html": "/roopet/index.html",
+    "main.7fc68bcb.css.map": "/roopet/static/css/main.7fc68bcb.css.map",
+    "main.de24b405.js.map": "/roopet/static/js/main.de24b405.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7fc68bcb.css",
+    "static/js/main.de24b405.js"
+  ]
+}
